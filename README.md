@@ -1,2 +1,2 @@
 # AI-pingpong
-A AI pingpong game.
+A AI-make pingpong game.
